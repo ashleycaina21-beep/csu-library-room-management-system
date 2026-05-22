@@ -1,27 +1,28 @@
-# Student Support System
+# Library Room Reservation Management System
 
 ## Project Description
-The Student Support System is a web-based application designed to help students manage academic concerns, announcements, schedules, and communication with administrators through a centralized platform.
+The Library Room Reservation Management System is a web-based application designed to help students reserve library study rooms efficiently through an online platform. The system allows users to check room availability, create reservations, manage schedules, and receive reservation notifications.
 
 ## Features
 - User Login and Registration
+- Room Reservation System
+- Room Availability Checking
+- Reservation Management
+- Notifications and Updates
 - Student Dashboard
-- Announcements
-- Profile Management
-- Notification System
 
 ## Setup Instructions
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourgroup/student-support-system.git
+git clone https://github.com/yourgroup/library-room-reservation-system.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd student-support-system
+cd library-room-reservation-system
 ```
 
 3. Install dependencies
@@ -48,7 +49,7 @@ http://localhost:3000
 - Kiesha Jae Calderon – System Architect
 - Richelle Ann Calabroso – System Analyst
 - Ashley Shanne Caiña – UI/UX Designer
-- Junard Gumatay- Programmer
+- Junard Gumatay - Programmer
 
 ## Prototype Link
 
